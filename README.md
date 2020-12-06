@@ -1,6 +1,15 @@
 # pseudo-inverse
 Left or right pseudo inverse.
 
+## Dependencies
+
+There are 2 dependencies 'matrix-computations' and 'singular-value-decomposition'.
+
+```bash
+https://github.com/PeterTadich/matrix-computations
+https://github.com/PeterTadich/singular-value-decomposition
+```
+
 ## Installation
 
 ### Node.js
