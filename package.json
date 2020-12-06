@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/PeterTadich/pseudo-inverse/issues"
   },
-  "homepage": "https://github.com/PeterTadich/pseudo-inverse#readme"
+  "homepage": "https://github.com/PeterTadich/pseudo-inverse#readme",
+  "dependencies": {
+    "matrix-computations": "git+https://github.com/PeterTadich/matrix-computations.git",
+    "singular-value-decomposition": "git+https://github.com/PeterTadich/singular-value-decomposition.git"
+  }
 }
