@@ -95,6 +95,8 @@ var a = [
 
 import * as svdcmp from 'singular-value-decomposition';
 import * as hlao from 'matrix-computations';
+//import * as svdcmp from '../singular-value-decomposition/svdcmp.mjs';
+//import * as hlao from '../matrix-computations/hlao.mjs';
 
 //pinv() - using Singular Value Decomposition
 function pinv(X){
